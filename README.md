@@ -18,4 +18,8 @@ This collaborative school project demonstrates CRUD (Create, Read, Update, Delet
 - HTML
 - CSS
 
+#Sample Images of Project
+<img src = >
+<img src = >
+
 
